@@ -11,7 +11,7 @@ Link παιχνιδιού: https://p13sidi.github.io/Super-Mario/
 Παραδοτέο 2
 
 Δημιούργησα μια νέα πίστα για το παιχνίδι μου χρησιμοποιώντας το Tiled.
-Μία ενδεικτική εικόνα της πίστας: https://github.com/p13sidi/Super-Mario/blob/master/assets/map_pic.png
+Μία ενδεικτική εικόνα της πίστας: https://github.com/p13sidi/Super-Mario/blob/master/assets/map_picture.png
 
 Άλλαξα την εμφάνιση του Super Mario και πρόσθεσα ένα background για το παιχνίδι μου.
 
